@@ -27,6 +27,7 @@ No contribution needed for this project.
 ## Usage
 There will be a video tutorial on how to use this project in this Readme
 
+[Link to video here!](https://drive.google.com/file/d/1ph7KuF_Xrnt6xiv-of_JKWRyRc5-bwL0/view)
 ## Installation
 npm i
 
